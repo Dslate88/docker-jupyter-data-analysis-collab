@@ -12,3 +12,7 @@ logs:
 
 prune:
 	docker system prune -a
+
+data:
+	kaggle datasets download -d berkeleyearth/climate-change-earth-surface-temperature-data
+	unzip climate-change-earth-surface-temperature-data.zip -d data/
