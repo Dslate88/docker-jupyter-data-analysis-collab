@@ -5,7 +5,7 @@
 - For example:
     - a Data Analyst has deep domain knowledge and analytical skills
     - a DevOps Engineer has infrastucture and deployment skills
-- This project reflects the type of working arrangements you might find at a company
+- This project reflects the type of working arrangements you might encounter
     - `goal1:` leverage a DevOps provided capability to maximize the ROI of your capability
     - `goal2:` communicate with your devops partner on any gaps in the environment
         - `note:` If the devops solution is not meeting your needs, that is a failing on my part and i'll work to provide you with the solution you need.
@@ -23,6 +23,7 @@
     - If your container is not already running (check Docker Deskptop), then run this so you can do your work
 - run `make logs`
     - notice where the output tells you to click to open up the environment? open it in your browser
+- create a notebook and you are good to go!
 
 ## kaggle api:
 - this is needed to run `make data`
