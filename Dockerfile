@@ -7,3 +7,5 @@ RUN python -m pip install \
     pandas \
     matplotlib \
     seaborn
+
+COPY data/ .
