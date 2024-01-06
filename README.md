@@ -1,4 +1,5 @@
 # docker-jupyter-data-analysis-collab
+I created this repo for a specific person who was wanting to upskill and enter the DS/ML/AI space and have some engineering skills.
 
 ## summary:
 - Typically within a large organization you will have core capabilities of your team, but will rely on other teams to mazimize the ROI.
